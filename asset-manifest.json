@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CrowdFunder/static/css/main.665b2fa8.css",
+    "main.js": "/CrowdFunder/static/js/main.59c58386.js",
+    "static/media/i1.jpeg": "/CrowdFunder/static/media/i1.4483634b3520d72bb1a9.jpeg",
+    "index.html": "/CrowdFunder/index.html",
+    "main.665b2fa8.css.map": "/CrowdFunder/static/css/main.665b2fa8.css.map",
+    "main.59c58386.js.map": "/CrowdFunder/static/js/main.59c58386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.665b2fa8.css",
+    "static/js/main.59c58386.js"
+  ]
+}
